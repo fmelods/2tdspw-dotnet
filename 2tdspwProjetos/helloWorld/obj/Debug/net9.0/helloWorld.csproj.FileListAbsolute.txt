@@ -1,12 +1,13 @@
-E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
-E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.AssemblyInfoInputs.cache
-E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.AssemblyInfo.cs
-E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.csproj.CoreCompileInputs.cache
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\bin\Debug\net9.0\helloWorld.exe
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\bin\Debug\net9.0\helloWorld.deps.json
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\bin\Debug\net9.0\helloWorld.runtimeconfig.json
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\bin\Debug\net9.0\helloWorld.dll
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\bin\Debug\net9.0\helloWorld.pdb
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.AssemblyInfoInputs.cache
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.AssemblyInfo.cs
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.csproj.CoreCompileInputs.cache
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.sourcelink.json
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.dll
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\refint\helloWorld.dll
 E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\helloWorld\obj\Debug\net9.0\helloWorld.pdb

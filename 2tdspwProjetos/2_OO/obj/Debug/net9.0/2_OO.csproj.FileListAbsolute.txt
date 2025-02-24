@@ -1,0 +1,15 @@
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\bin\Debug\net9.0\2_OO.exe
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\bin\Debug\net9.0\2_OO.deps.json
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\bin\Debug\net9.0\2_OO.runtimeconfig.json
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\bin\Debug\net9.0\2_OO.dll
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\bin\Debug\net9.0\2_OO.pdb
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.AssemblyInfoInputs.cache
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.AssemblyInfo.cs
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.csproj.CoreCompileInputs.cache
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.sourcelink.json
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.dll
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\refint\2_OO.dll
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.pdb
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\2_OO.genruntimeconfig.cache
+E:\faculdade\fiap\atividades\2tdspw\dotnet\2tdspwProjetos\2_OO\obj\Debug\net9.0\ref\2_OO.dll
