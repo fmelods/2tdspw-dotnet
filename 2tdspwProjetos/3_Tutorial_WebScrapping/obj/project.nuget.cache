@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/b2dIoo/ZQ=",
+  "success": true,
+  "projectFilePath": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\3_Tutorial_WebScrapping\\3_Tutorial_WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}
