@@ -13,11 +13,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_OO/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2tdspwProjetos.sln" beforeDir="false" afterPath="$PROJECT_DIR$/2tdspwProjetos.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +105,7 @@
       <workItem from="1740367722853" duration="763000" />
       <workItem from="1740368839988" duration="227000" />
       <workItem from="1740519328496" duration="1489000" />
+      <workItem from="1740615699768" duration="5323000" />
     </task>
     <servers />
   </component>
