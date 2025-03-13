@@ -13,20 +13,211 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed91b9c6-542f-4803-8f71-45cace599a30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5_EF_Core/Blog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_EF_Core/BloggingContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_EF_Core/Post.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.exe" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/bin/Debug/net9.0/2_OO.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_OO/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2tdspwProjetos.sln" beforeDir="false" afterPath="$PROJECT_DIR$/2tdspwProjetos.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/Debug/net9.0/3_Tutorial_WebScrapping.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/3_Tutorial_WebScrapping/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/Debug/net9.0/helloWorld.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/2_OO.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/ref/2_OO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/ref/2_OO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/refint/2_OO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/2_OO/obj/Debug/net9.0/refint/2_OO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/4_LINQ.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/bin/Debug/net9.0/4_LINQ.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/bin/Debug/net9.0/4_LINQ.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/bin/Debug/net9.0/4_LINQ.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/bin/Debug/net9.0/4_LINQ.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/bin/Debug/net9.0/4_LINQ.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/4_LINQ.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/4_LINQ.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/4_LINQ.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/4_LINQ.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/ref/4_LINQ.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/Debug/net9.0/refint/4_LINQ.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_LINQ/4_LINQ/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/5_EFCore.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Blog.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/BloggingContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Migrations/20250313002601_Initial.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Migrations/20250313002601_Initial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Migrations/BloggingContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Post.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/assets/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/5_EFCore.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/5_EFCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/5_EFCore.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/5_EFCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/5_EFCore.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Build.Locator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/Mono.TextTemplating.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/SQLitePCLRaw.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.CodeDom.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.Composition.AttributedModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.Composition.Convention.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.Composition.Hosting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.Composition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/System.Composition.TypedParts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/5_EFCore.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/5_EFCore.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/5_EFCore.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/5_EFCore.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.csproj.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/5_EFCore.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/ref/5_EFCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/Debug/net9.0/refint/5_EFCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_EFCore/5_EFCore/script.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +229,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/EFCore/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -171,7 +365,7 @@
       <workItem from="1740519328496" duration="1489000" />
       <workItem from="1740615699768" duration="5323000" />
       <workItem from="1741226205066" duration="74000" />
-      <workItem from="1741818549539" duration="4431000" />
+      <workItem from="1741818549539" duration="5095000" />
     </task>
     <servers />
   </component>

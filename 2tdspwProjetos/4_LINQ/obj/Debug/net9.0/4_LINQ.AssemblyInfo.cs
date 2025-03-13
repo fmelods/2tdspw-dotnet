@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("4_LINQ")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("4_Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+448115f259a2dc1a002df1925bc904ac2d8634e5")]
-[assembly: System.Reflection.AssemblyProductAttribute("4_LINQ")]
-[assembly: System.Reflection.AssemblyTitleAttribute("4_LINQ")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc687585b16d9be85c81299cf23b8804b614549")]
+[assembly: System.Reflection.AssemblyProductAttribute("4_Linq")]
+[assembly: System.Reflection.AssemblyTitleAttribute("4_Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

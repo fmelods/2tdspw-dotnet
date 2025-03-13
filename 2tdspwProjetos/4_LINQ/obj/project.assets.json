@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leonardo Ribas\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\fiap\\fiap-2025-general\\dotnet\\2025_02_12\\2tdspwProjetos\\4_LINQ\\4_LINQ.csproj",
-      "projectName": "4_LINQ",
-      "projectPath": "C:\\Workspace\\fiap\\fiap-2025-general\\dotnet\\2025_02_12\\2tdspwProjetos\\4_LINQ\\4_LINQ.csproj",
-      "packagesPath": "C:\\Users\\Leonardo Ribas\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\fiap\\fiap-2025-general\\dotnet\\2025_02_12\\2tdspwProjetos\\4_LINQ\\obj\\",
+      "projectUniqueName": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\4_Linq\\4_Linq.csproj",
+      "projectName": "4_Linq",
+      "projectPath": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\4_Linq\\4_Linq.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\4_Linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leonardo Ribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -44,9 +44,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Leonardo Ribas\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
