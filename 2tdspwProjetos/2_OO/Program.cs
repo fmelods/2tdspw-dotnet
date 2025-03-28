@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Security.AccessControl;
 using _2_OO;
 
 Console.WriteLine("Hello, World!");
@@ -13,5 +14,5 @@ var card = new Card()
     //Types = new List<string> { "Instant" }
 };
 
-card.Types.Add("Mox Opal");
+card.Name = "Mox Opal";
 Console.WriteLine(card.Name);

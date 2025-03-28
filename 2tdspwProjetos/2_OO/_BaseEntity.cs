@@ -1,4 +1,4 @@
-﻿namespace _2_OO;
+namespace _2_OO;
 
 public abstract class _BaseEntity
 {

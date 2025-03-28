@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-IEnumerable<Student> students =
-[
+// Create a data source by using a collection initializer.
+var students = new List<Student>() 
+{
     new Student(First: "Svetlana", Last: "Omelchenko", ID: 111, Scores: [97, 92, 81, 60]),
     new Student(First: "Claire",   Last: "O'Donnell",  ID: 112, Scores: [75, 84, 91, 39]),
     new Student(First: "Sven",     Last: "Mortensen",  ID: 113, Scores: [88, 94, 65, 91]),
@@ -15,80 +15,73 @@ IEnumerable<Student> students =
     new Student("Terry",   "Adams",       120, [99, 82, 81, 79]),
     new Student("Eugene",  "Zabokritski", 121, [96, 85, 91, 60]),
     new Student("Michael", "Tucker",      122, [94, 92, 91, 91])
-];
+};
 
 #region Simple Linq Query
 
-// var studentQuery = 
-//     from student in students 
-//     where student.Scores[0] > 90 
-//     select student;
+var studentQuery = students
+    .Where(student => student.Scores[0] > 90 && student.Scores[3] < 80)
+    .OrderByDescending(student => student.Scores[0])
+    .ThenBy(student => student.Scores[3]).ToList();
 
-var studentQuery = 
-    from student in students 
-    where student.Scores[0] > 90 && student.Scores[3] < 80
-    orderby student.Last ascending, student.First descending
-    select student;
-
-foreach (var student in studentQuery)
-{
-    Console.WriteLine($"{student.First} {student.Last}");
-}
+foreach(var student in studentQuery)
+    Console.WriteLine($"{student.First}, {student.Last}, " +
+                      $"{student.Scores[0]}, {student.Scores[3]}");
 
 #endregion
 
-Console.WriteLine("\n==========================================\n");
+Console.WriteLine("*==================*\n");
 
 #region Grouped Linq Query
 
-// Ordering before grouping 
-// var studentGroupQuery =
-//     from student in students
-//     orderby student.Last
-//     group student by student.Last[0];
-
-// Ordering the groups (better for performance)
-var studentGroupQuery =
+var studentGroupQuery = 
     from student in students
     group student by student.Last[0] into studentGroup
-    orderby studentGroup.Key
+    orderby  studentGroup.Key
     select studentGroup;
 
 foreach (var group in studentGroupQuery)
 {
     Console.WriteLine(group.Key);
     foreach (var student in group)
-    {
         Console.WriteLine($"    {student.Last}, {student.First}");
-    }
+    
 }
-
 #endregion
 
+Console.WriteLine("*==================*\n");
 
-Console.WriteLine("\n==========================================\n");
-
-#region Linq Query With Let
+#region Linq Query with Let
 
 var studentQueryWithLet =
     from student in students
     let totalScore = student.Scores.Sum()
-    let averageScore = totalScore / student.Scores.Length // student.Scores.Average()
-    where averageScore > 70
-    select $"{student.First} {student.Last}, {totalScore} - {averageScore}";
+        where totalScore / student.Scores.Length > 70
+        select $"{student.First}, {student.Last}, {totalScore/student.Scores.Length}";
 
-foreach (var student in studentQueryWithLet)
+foreach(var student in studentQueryWithLet)
     Console.WriteLine(student);
 
-Console.WriteLine("\n==========================================\n");
+Console.WriteLine("*==================*\n");
 
-var studentQueryWithLetAndMethod =
+var studentQueryWithLet2 = from student in students
+    let totalScore = student.Scores.Sum()
+    where totalScore / student.Scores.Length > 70
+    select totalScore;
+
+var averageScore = Math.Round(studentQueryWithLet2.Average());
+Console.WriteLine($"The average score of the class is: {averageScore}");
+
+Console.WriteLine("*==================*\n");
+
+studentQueryWithLet =
     from student in students
     let totalScore = student.Scores.Sum()
-    select totalScore;
-var classAverageScore = Math.Round(studentQueryWithLetAndMethod.Average());
-Console.WriteLine(classAverageScore);
+    where totalScore > averageScore
+    select $"{student.First}, {student.Last}, {totalScore}";
+
+foreach(var student in studentQueryWithLet)
+    Console.WriteLine(student);
 
 #endregion
-
-public record Student(string First, string Last, int ID, int[] Scores);
+public record Student (string First, string Last, int ID, int[] Scores);

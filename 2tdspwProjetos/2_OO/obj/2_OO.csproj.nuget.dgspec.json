@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\2_OO\\2_OO.csproj": {}
+    "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/2_OO.csproj": {}
   },
   "projects": {
-    "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\2_OO\\2_OO.csproj": {
+    "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/2_OO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\2_OO\\2_OO.csproj",
+        "projectUniqueName": "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/2_OO.csproj",
         "projectName": "2_OO",
-        "projectPath": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\2_OO\\2_OO.csproj",
-        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "E:\\faculdade\\fiap\\atividades\\2tdspw\\dotnet\\2tdspwProjetos\\2_OO\\obj\\",
+        "projectPath": "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/2_OO.csproj",
+        "packagesPath": "/Users/leonardo.romao/.nuget/packages/",
+        "outputPath": "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/leonardo.romao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
